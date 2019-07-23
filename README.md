@@ -27,6 +27,7 @@ Todas as diretivas de compilação do programa estão descritas no arquivo `Make
 Abrir o Terminal no diretório principal do projeto e digitar:
 
 `$ make`
+
 `$ ./ApacheLogs`
 
 ## Autores
